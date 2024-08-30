@@ -12,7 +12,7 @@ This Python script uses `yt_dlp` to download audio from YouTube playlists, conve
   ```  pip install yt_dlp```
 
 ## How to use:
-- Download the Script
+- Download the Script (from releases)
 - Open the terminal and run the Script following this command (Remember to use double quotes for the link, like the example):
   ```python DownloaderScript.py "playlist_link"```
 - **Output Directory:** Downloaded files will be saved in the `Downloads` folder.
@@ -26,5 +26,5 @@ This Python script uses `yt_dlp` to download audio from YouTube playlists, conve
 
 - **Personal Use Only:** This tool is intended for personal use only. Please respect copyright laws and YouTube's terms of service when using this script.
 
-
+- if you edit my code, might you have to reinstall [ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases).
 --- 
