@@ -1,3 +1,4 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
 bin/ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
 bin/ffprobe.exe filter=lfs diff=lfs merge=lfs -text
 bin/ffplay.exe filter=lfs diff=lfs merge=lfs -text
