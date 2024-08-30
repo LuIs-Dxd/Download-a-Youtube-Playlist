@@ -8,7 +8,7 @@ To run this Python script for downloading YouTube playlist audios, you will need
     yt_dlp Library: Install this library using pip with the command:
           --> pip install yt_dlp
 
-     FFmpeg: Required for audio processing and conversion. Download it from ffmpeg.org and ensure it's added to your system's PATH(IMPORTANT).
+     FFmpeg: Required for audio processing and conversion. Download it from ffmpeg.org and ensure it's added to your system's PATH(Environment variable, IMPORTANT).
 
 Note:
 
